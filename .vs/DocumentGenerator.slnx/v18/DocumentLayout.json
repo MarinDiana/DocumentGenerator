@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5983DA72-0C13-987F-28BE-0656A1378EFB}|DocumentGenerator.Tests\\DocumentGenerator.Tests.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator.tests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5983DA72-0C13-987F-28BE-0656A1378EFB}|DocumentGenerator.Tests\\DocumentGenerator.Tests.csproj|solutionrelative:documentgenerator.tests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5983DA72-0C13-987F-28BE-0656A1378EFB}|DocumentGenerator.Tests\\DocumentGenerator.Tests.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5983DA72-0C13-987F-28BE-0656A1378EFB}|DocumentGenerator.Tests\\DocumentGenerator.Tests.csproj|solutionrelative:documentgenerator.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\prototypes\\templateregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\prototypes\\templateregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\prototypes\\documenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\prototypes\\documenttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\builders\\documentdatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\builders\\documentdatabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\factories\\documentassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\factories\\documentassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\factories\\invoicecomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\factories\\invoicecomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\factories\\reportcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\factories\\reportcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\factories\\idocumentcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\factories\\idocumentcomponentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\exporters\\plaintextdocumentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\exporters\\plaintextdocumentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\exporters\\htmldocumentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\exporters\\htmldocumentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\exporters\\documentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\exporters\\documentexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\renderers\\plaintextrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\renderers\\plaintextrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\renderers\\htmlrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\renderers\\htmlrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\renderers\\idocumentrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\renderers\\idocumentrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\models\\documentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\models\\documentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|c:\\users\\lenovo\\desktop\\informatica\\anul 2\\semestrul 2\\metode avansate de programare\\documentgenerator\\documentgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010216B1-AE16-89D7-CA53-5302DFB23E94}|DocumentGenerator\\DocumentGenerator.csproj|solutionrelative:documentgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41248:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\.gitignore",
+              "RelativeDocumentMoniker": "DocumentGenerator\\.gitignore",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\.gitignore",
+              "RelativeToolTip": "DocumentGenerator\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-25T07:47:30.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatternTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator.Tests\\PatternTests.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Tests\\PatternTests.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator.Tests\\PatternTests.cs",
+              "RelativeToolTip": "DocumentGenerator.Tests\\PatternTests.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:28:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "DocumentGenerator.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:27:34.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Configuration\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Configuration\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Configuration\\AppConfiguration.cs",
+              "RelativeToolTip": "DocumentGenerator\\Configuration\\AppConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:26:17.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemplateRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Prototypes\\TemplateRegistry.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Prototypes\\TemplateRegistry.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Prototypes\\TemplateRegistry.cs",
+              "RelativeToolTip": "DocumentGenerator\\Prototypes\\TemplateRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:24:25.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Prototypes\\DocumentTemplate.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Prototypes\\DocumentTemplate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Prototypes\\DocumentTemplate.cs",
+              "RelativeToolTip": "DocumentGenerator\\Prototypes\\DocumentTemplate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:23:42.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentDataBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Builders\\DocumentDataBuilder.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Builders\\DocumentDataBuilder.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Builders\\DocumentDataBuilder.cs",
+              "RelativeToolTip": "DocumentGenerator\\Builders\\DocumentDataBuilder.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:22:40.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Factories\\DocumentAssembler.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Factories\\DocumentAssembler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Factories\\DocumentAssembler.cs",
+              "RelativeToolTip": "DocumentGenerator\\Factories\\DocumentAssembler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:22:12.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceComponentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Factories\\InvoiceComponentFactory.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Factories\\InvoiceComponentFactory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Factories\\InvoiceComponentFactory.cs",
+              "RelativeToolTip": "DocumentGenerator\\Factories\\InvoiceComponentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:21:47.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportComponentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Factories\\ReportComponentFactory.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Factories\\ReportComponentFactory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Factories\\ReportComponentFactory.cs",
+              "RelativeToolTip": "DocumentGenerator\\Factories\\ReportComponentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:21:32.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDocumentComponentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Factories\\IDocumentComponentFactory.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Factories\\IDocumentComponentFactory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Factories\\IDocumentComponentFactory.cs",
+              "RelativeToolTip": "DocumentGenerator\\Factories\\IDocumentComponentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:21:14.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlainTextDocumentExporter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Exporters\\PlainTextDocumentExporter.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Exporters\\PlainTextDocumentExporter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Exporters\\PlainTextDocumentExporter.cs",
+              "RelativeToolTip": "DocumentGenerator\\Exporters\\PlainTextDocumentExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:19:32.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HtmlDocumentExporter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Exporters\\HtmlDocumentExporter.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Exporters\\HtmlDocumentExporter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Exporters\\HtmlDocumentExporter.cs",
+              "RelativeToolTip": "DocumentGenerator\\Exporters\\HtmlDocumentExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:19:18.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentExporter.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Exporters\\DocumentExporter.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Exporters\\DocumentExporter.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Exporters\\DocumentExporter.cs",
+              "RelativeToolTip": "DocumentGenerator\\Exporters\\DocumentExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:19:01.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlainTextRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Renderers\\PlainTextRenderer.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Renderers\\PlainTextRenderer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Renderers\\PlainTextRenderer.cs",
+              "RelativeToolTip": "DocumentGenerator\\Renderers\\PlainTextRenderer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:18:38.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HtmlRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Renderers\\HtmlRenderer.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Renderers\\HtmlRenderer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Renderers\\HtmlRenderer.cs",
+              "RelativeToolTip": "DocumentGenerator\\Renderers\\HtmlRenderer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:18:11.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDocumentRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Renderers\\IDocumentRenderer.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Renderers\\IDocumentRenderer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Renderers\\IDocumentRenderer.cs",
+              "RelativeToolTip": "DocumentGenerator\\Renderers\\IDocumentRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:17:46.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocumentData.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Models\\DocumentData.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Models\\DocumentData.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Models\\DocumentData.cs",
+              "RelativeToolTip": "DocumentGenerator\\Models\\DocumentData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:16:35.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INFORMATICA\\Anul 2\\Semestrul 2\\Metode avansate de programare\\DocumentGenerator\\DocumentGenerator\\Program.cs",
+              "RelativeToolTip": "DocumentGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T07:12:30.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

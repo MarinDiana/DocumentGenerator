@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DocumentGenerator.Tests/DocumentGenerator.Tests.csproj" />
+  <Project Path="DocumentGenerator/DocumentGenerator.csproj" />
+</Solution>
